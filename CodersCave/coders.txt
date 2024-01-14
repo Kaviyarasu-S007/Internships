@@ -1,1 +1,5 @@
+CdersCave Internship
 
+Phase - 1
+Normal Task = EDA on Transactional Data
+Golden Task = Time Series Analysis
